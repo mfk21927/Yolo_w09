@@ -1,0 +1,6 @@
+path: D:/internship/Yolo_w09/dataset_prepared
+train: images/train
+val: images/val
+test: images/test
+nc: 2
+names: ['car', 'number_plate']
