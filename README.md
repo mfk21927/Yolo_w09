@@ -1,22 +1,23 @@
-To update your repository for **Week 9: Object Detection with YOLO**, you can use the following structure. This maintains the professional style of your previous documentation while incorporating the specific requirements for YOLO setup, custom training, video detection, and Flask deployment.
 
-# ML\_WEEK09\_B01
-
+# ML_WEEK09_B01
 # 🚀 ML-Internship
 
-> **Name:** Muhammad Fahad
-> **Email:** [](mailto:mfk21927@gmail.com)
-> **LinkedIn:** [](https://www.linkedin.com/in/muhammad-fahad-087057293)
-> **Start Date:** 20-12-2025
+> **Name:** Muhammad Fahad 
+> **Email:** [![Email](https://img.shields.io/badge/Email-mfk21927@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mfk21927@gmail.com) 
+> **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Fahad-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fahad-087057293) 
+> **Start Date:** 20-12-2025 
 
------
+---
 
-[](https://www.google.com/search?q=%5Bhttps://www.python.org/%5D\(https://www.python.org/\))
-[](https://docs.ultralytics.com/)
-[](https://opencv.org/)
-[](https://flask.palletsprojects.com/)
+![Internship](https://img.shields.io/badge/Status-Active-blue?style=for-the-badge)
+![Batch](https://img.shields.io/badge/Batch-B01-orange?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-3.x-black?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-red?logo=python&logoColor=white)](https://www.sqlalchemy.org/)
+[![TFLite](https://img.shields.io/badge/TFLite-ai--edge--litert-orange?logo=tensorflow&logoColor=white)](https://ai.google.dev/edge/litert)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
------
+---
 
 ## 📌 Project Overview
 
